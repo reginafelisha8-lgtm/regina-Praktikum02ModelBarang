@@ -1,2 +1,2 @@
-# regina-Praktikum02ModelBarang
+# praktikum02ModelBarang
 
